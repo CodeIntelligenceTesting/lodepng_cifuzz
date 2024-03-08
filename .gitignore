@@ -1,0 +1,12 @@
+/.cifuzz-build/
+/.cifuzz-corpus/
+/.cifuzz-findings/
+
+/fuzztest
+/fuzztest_inputs/
+
+/.cache/
+compile_commands.json
+
+*.o
+*.a
